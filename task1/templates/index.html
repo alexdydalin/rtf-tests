@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Telegram Chat Interface</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div id="messages">
+        {% for message in messages %}
+            <div>
+                {% if message.is_bot %}Bot{% else %}User {{ message.user_id }} 
+                {% endif %}: {{ message.text }}
+            </div>
+        {% endfor %}
+    </div>
+
+    <form method="POST" action="/send">
+        <input class="input-field" type="number" name="user_id" placeholder="ID пользователя" required>
+        <input class="input-field" type="text" name="text" placeholder="Сообщение" required>
+    <button type="submit">Отправить</button>
+</form>
+</body>
+</html>я

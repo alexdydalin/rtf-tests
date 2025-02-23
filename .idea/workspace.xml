@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e549d14-d9a9-4035-b4e4-10bc0c69aac5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rtf-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task1/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/swapi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/characters.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task3/stats.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2tFuWlnU1rRBB4idk0cKArP3dJm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.app.executor": "Run",
+    "Python.bot.executor": "Run",
+    "Python.stats.executor": "Run",
+    "Python.swapi.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/pet/rtf-task/task1",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pet\rtf-task\task1" />
+      <recent name="D:\pet\rtf-task\.venv" />
+      <recent name="D:\pet\rtf-task\task3" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e549d14-d9a9-4035-b4e4-10bc0c69aac5" name="Changes" comment="" />
+      <created>1739960177795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739960177795</updated>
+    </task>
+    <servers />
+  </component>
+</project>
